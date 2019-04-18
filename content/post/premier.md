@@ -1,8 +1,6 @@
 ---
-title: "Les digitals natives"
-date: 2019-04-16T15:17:04+02:00
-draft: false
-
+title: Les digitals natives
+date: 2019-04-17T13:17:04.000Z
 ---
 
 ### Les digitals natives sont multi-tâches
